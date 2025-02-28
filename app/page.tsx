@@ -3,6 +3,7 @@
 import { useAuth } from '@/contexts/AuthContext';
 
 import { PricingSection } from '@/components/PricingSection';
+
 import { useTrialStatus } from '@/hooks/useTrialStatus';
 // import { DemoWidget } from '@/components/DemoWidget';
 // import { MetricCard } from '@/components/MetricCard';
